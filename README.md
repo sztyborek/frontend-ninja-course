@@ -1,7 +1,9 @@
 # Frontend ninja course
 
+This repository is no longer updated or maintained (but it can be helpful anyway). For learning HTML and CSS basics I recommend visiting [The Awwwesomes tutorial](https://the-awwwesomes.gitbooks.io/html-css-step-by-step/content/pl/), which I co-authored (for now it's available only in Polish language).
+
 ## HTML and CSS - The Basics:
-- [Basic page template: The content and presentation separation.](html-css-basics/basic-html-page.md)
+- Basic page template: The content and presentation separation.
 - HTML document semantics.
 - HTML5: What's new and cool?
 - CSS: The presentation. Overview of CSS selectors.
