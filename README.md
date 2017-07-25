@@ -23,7 +23,7 @@ This repository is no longer updated or maintained (but it can be helpful anyway
 ## JavaScript Basics:
 - Language syntax basics.
 - The DOM API.
-- The this keyword.
+- The `this` keyword.
 - Object oriented (and modular) JavaScript.
 - jQuery
 - **Exercise:** Create modular app for adding user data to some table (without any library, just DOM API), use JS objects for data handling (basics of MVC concept).
